@@ -4,7 +4,7 @@
   <h3 align="center">GSKI Menorah Website</h3>
 
   <p align="center">
-    Build With **&#10084;** in Indonesia
+    Build With &#10084; in Indonesia
     <br/>
     <br/>
   </p>
