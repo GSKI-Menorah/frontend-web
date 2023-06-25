@@ -1,34 +1,57 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+<br/>
+<p align="center">
+  <h3 align="center">GSKI Menorah Website</h3>
+
+  <p align="center">
+    Build With &#10084; in Indonesia
+    <br/>
+    <br/>
+  </p>
+</p>
+
+## About The Project
+
+Ini adalah sebuah website yang ditujukan untuk GSKI Menorah. Project ini sendiri akan dibagi menjadi beberapa *phase* yang akan di-*publish* secara *partial*.
+
+Mengapa project ini harus ada:
+
+* Digitalisasi gereja
+* Memperkenalkan gereja dengan lingkup yang luas
+
+## Built With
+
+ - NextJS
+ - TailwindCSS
+ - Vercel
 
 ## Getting Started
 
-First, run the development server:
+Silakan fork repo ini dan gunakan sebaik mungkin. 
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Roadmap
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+See the [open issues](https://github.com/GSKI-Menorah/frontend-web/issues) for a list of proposed features (and known issues).
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Contributing
+Kontribusi kalian sangat penting untuk keberlangsungan project ini, maka dari itu kami akan sangat senang jika kalian memiliki kendala silakan untuk ***open an issue***
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+### Creating A Pull Request
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-## Learn More
+## License
 
-To learn more about Next.js, take a look at the following resources:
+Distributed under the MIT License. See [LICENSE](https://github.com/GSKI-Menorah/frontend-web/blob/main/LICENSE.md) for more information.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Authors
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+* **Raka Rasell** - - [RasellDev](https://github.com/raselldev/) - 
+* **Claudyo Pasqal** - - [Dyo](https://github.com/ClaudyoPasqal/) - 
+* **Jhosua Putra** - - 
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
