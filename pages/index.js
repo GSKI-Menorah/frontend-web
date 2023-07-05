@@ -11,7 +11,7 @@ export default function Home() {
     <div className=" max-w-screen">
       <div className="h-screen">
         <Image
-          src="/image/bg.png"
+          src="/image/bg.svg"
           width={1000}
           height={100}
           className="w-full h-full absolute"

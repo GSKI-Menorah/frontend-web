@@ -6,7 +6,10 @@ const Navbar = () => {
         <div>
             <h1 className='font-bold text-xl'>GSKI MENORAH</h1>
         </div>
-        <div>
+
+        {/* ASAP WILL BE ACTIVE */}
+
+        {/* <div>
             <ul className='flex gap-2'>
                 <li>Tentang Kami</li>
                 <li>Komisi</li>
@@ -14,7 +17,7 @@ const Navbar = () => {
                 <li>Persembahan</li>
                 <li>Hubungi Kami</li>
             </ul>
-        </div>
+        </div> */}
     </div>
   )
 }

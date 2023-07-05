@@ -15,13 +15,13 @@ const Aktivitas = () => {
           <div className="w-[300px] h-[300px] rounded-lg bg-[#F1DFBF] flex items-center justify-center">
             <Image src="/image/aktivitas1.png" width={220} height={100} />
           </div>
-          <p className="w-full text-center text-lg font-medium">Ibadah Raya</p>
+          <p className="w-full text-center text-lg font-medium text-white">Ibadah Raya</p>
         </div>
         <div className="flex flex-col gap-4">
           <div className="w-[300px] h-[300px] rounded-lg bg-[#F1DFBF] flex items-center justify-center">
             <Image src="/image/aktivitas2.png" width={220} height={100} />
           </div>
-          <p className="w-full text-center text-lg font-medium">
+          <p className="w-full text-center text-lg font-medium text-white">
             Home Cellular
           </p>
         </div>
@@ -34,7 +34,7 @@ const Aktivitas = () => {
               height={100}
             />
           </div>
-          <p className="w-full text-center text-lg font-medium">
+          <p className="w-full text-center text-lg font-medium text-white">
             Kunjungan dan Doa
           </p>
         </div>

@@ -17,11 +17,11 @@ const About = () => {
             <Image src="/image/image.png" width={330} height={100} />
           </div>
           <div className="w-[50%] h-full gap-4 items-center justify-center flex flex-col">
-          <h1 className="w-full px-[135px] text-lg font-medium">Profil Gereja</h1>
-            <p className="text-left w-[60%] text-sm">Gereja Suara Kebenaran Injil (disingkat GSKI) Jemaat Menorah adalah gereja yang bernaung dalam sinode GSKI yang dipimpin Pdt. Dr. Erastus Sabdono dengan gembala lokal Ps. Joshua Putra Anugrah, S.Th ...</p>
-            <button className="relative right-[115px] text-white bg-[#346DA1] p-2 px-12 rounded-lg">
+          <h1 className="w-full px-[135px] text-lg font-medium text-center">Profil Gereja</h1>
+            <p className="text-left w-[60%] text-sm">Gereja Suara Kebenaran Injil (disingkat GSKI) Jemaat Menorah adalah gereja yang bernaung dalam sinode GSKI yang dipimpin Pdt. Dr. Erastus Sabdono dengan gembala lokal Ps. Joshua Putra Anugrah, S.Th.</p>
+            {/* <button className="relative right-[115px] text-white bg-[#346DA1] p-2 px-12 rounded-lg">
               Learn More
-            </button>
+            </button> */}
           </div>
         </div>
       </div>
