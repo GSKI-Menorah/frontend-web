@@ -5,10 +5,16 @@ import About from "../components/About";
 import Komisi from "../components/Komisi";
 import Aktivitas from "../components/Aktivitas";
 import Contact from "../components/Contact";
+import Head from "next/head"
 
 export default function Home() {
   return (
     <div className=" max-w-screen">
+    <Head>
+        <meta charset="UTF-8">
+        <meta name="description" content="Web GSKI">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </Head>
       <div className="h-screen">
         <Image
           src="/image/bg.svg"
